@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad — TattooAgenda</title>
+    <style>
+        :root {
+            --bg: #f4f6f8;
+            --card: #ffffff;
+            --text: #1f2937;
+            --muted: #6b7280;
+            --border: #e5e7eb;
+            --primary: #111827;
+            --accent: #d97706;
+        }
+
+        * { box-sizing: border-box; }
+
+        body {
+            margin: 0;
+            padding: 24px;
+            background: var(--bg);
+            color: var(--text);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.7;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: var(--card);
+            padding: 32px 28px 48px;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(15, 23, 42, 0.06);
+        }
+
+        h1 {
+            font-size: clamp(28px, 3vw, 40px);
+            line-height: 1.2;
+            border-bottom: 2px solid var(--border);
+            padding-bottom: 12px;
+            margin: 0 0 12px;
+            color: var(--primary);
+        }
+
+        .date {
+            font-size: 0.95rem;
+            color: var(--muted);
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            margin-top: 32px;
+            font-size: 1.35rem;
+            color: var(--primary);
+        }
+
+        p, li {
+            font-size: 1rem;
+            color: #374151;
+        }
+
+        ul {
+            padding-left: 22px;
+            margin-top: 12px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .highlight {
+            background: #fff7ed;
+            border-left: 4px solid var(--accent);
+            padding: 12px 16px;
+            border-radius: 8px;
+            margin-top: 18px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>POLÍTICA DE PRIVACIDAD — TATTOOAGENDA</h1>
+    <div class="date">Última actualización: 6 de octubre de 2026</div>
+
+    <p>TattooAgenda es una aplicación diseñada para ayudar a profesionales del tatuaje a gestionar clientes, citas, presupuestos, trabajos y otra información relacionada con su actividad profesional.</p>
+
+    <p>Esta Política de Privacidad explica qué datos puede gestionar la aplicación, cómo se tratan, qué medidas se aplican y qué responsabilidades tienen el usuario y el responsable de la aplicación.</p>
+
+    <h2>1. Responsable del tratamiento</h2>
+    <p>El responsable del tratamiento de los datos que se introduzcan en TattooAgenda será la persona o entidad titular de la aplicación y de su funcionamiento, según se indique en la ficha de la aplicación en Google Play y en la información de contacto pública disponible en la misma plataforma.</p>
+    <p>En caso de que el usuario tenga dudas o quiera ejercer sus derechos sobre sus datos, deberá dirigirse a los medios de contacto indicados en la ficha de Google Play o en la propia aplicación, si se aportan.</p>
+
+    <h2>2. Datos que puede gestionar la aplicación</h2>
+    <p>TattooAgenda permite introducir y gestionar información relacionada con la actividad profesional del usuario. A modo orientativo, estos datos pueden incluir:</p>
+    <ul>
+        <li>Nombre del cliente.</li>
+        <li>Número de teléfono.</li>
+        <li>Dirección de correo electrónico.</li>
+        <li>Información relativa a citas y horarios.</li>
+        <li>Notas sobre clientes, trabajos y preferencias.</li>
+        <li>Fotografías, referencias o imágenes relacionadas con trabajos de tatuaje.</li>
+        <li>Presupuestos o estimaciones de coste.</li>
+        <li>Señales, pagos pendientes o información financiera básica.</li>
+    </ul>
+    <p>Estos datos son introducidos voluntariamente por el usuario de la aplicación y tienen como finalidad la gestión de la actividad profesional del mismo.</p>
+
+    <h2>3. Almacenamiento de los datos</h2>
+    <p>Los datos introducidos en TattooAgenda se almacenan localmente en el dispositivo del usuario.</p>
+    <p>La versión actual de TattooAgenda no requiere una cuenta de usuario y no utiliza servidores propios ni almacenamiento en la nube para guardar la información principal de clientes y citas.</p>
+    <p>Sin embargo, es importante tener en cuenta que el almacenamiento local puede estar sujeto a copias de seguridad del sistema operativo, sincronización entre dispositivos, restauraciones o condiciones del propio terminal. Por tanto, la seguridad de los datos depende también del dispositivo del usuario y de sus medidas de protección.</p>
+
+    <div class="highlight">
+        TattooAgenda no recibe ni almacena de forma habitual los datos de clientes en servidores propios. No obstante, los datos pueden quedar almacenados en el dispositivo del usuario o en sistemas de copia de seguridad o sincronización del propio sistema operativo.
+    </div>
+
+    <h2>4. Uso de los datos</h2>
+    <p>Los datos introducidos por el usuario se utilizan para ofrecer las funciones principales de la aplicación, como:</p>
+    <ul>
+        <li>Gestión de clientes.</li>
+        <li>Organización de citas.</li>
+        <li>Seguimiento de trabajos.</li>
+        <li>Control de presupuestos y pagos.</li>
+        <li>Recordatorios y gestión interna del negocio profesional.</li>
+    </ul>
+    <p>La aplicación no vende ni comercializa los datos de los usuarios ni los comparte con terceros con fines publicitarios.</p>
+    <p>Asimismo, TattooAgenda no utiliza los datos almacenados localmente para crear perfiles publicitarios ni para actividades de marketing dirigidas al usuario.</p>
+
+    <h2>5. Compras, suscripciones y servicios de pago</h2>
+    <p>TattooAgenda puede ofrecer funciones adicionales mediante una suscripción TattooAgenda PRO o modelos similares de compra dentro de la aplicación.</p>
+    <p>Las compras y suscripciones se gestionan mediante Google Play Billing.</p>
+    <p>Google Play Billing puede procesar información necesaria para la validación del pago y la gestión de la transacción, pero TattooAgenda no almacena directamente los datos completos de las tarjetas bancarias ni los detalles completos del proceso de pago.</p>
+    <p>El usuario debe revisar la política de privacidad y las condiciones de Google Play para conocer el tratamiento que Google realiza sobre los datos relacionados con compras y pagos.</p>
+
+    <h2>6. Publicidad</h2>
+    <p>La versión actual de TattooAgenda no incluye publicidad ni anuncios personalizados.</p>
+
+    <h2>7. Seguridad</h2>
+    <p>TattooAgenda adopta medidas razonables para proteger los datos almacenados localmente en el dispositivo.</p>
+    <p>Sin embargo, ningún sistema es completamente invulnerable. La seguridad de los datos también depende de las medidas del propio dispositivo del usuario, como bloqueo de pantalla, protección de acceso, copias de seguridad cifradas, actualizaciones del sistema operativo y uso de software seguro.</p>
+    <p>Se recomienda al usuario mantener el dispositivo protegido y actualizado y evitar compartir datos sensibles o imágenes con terceros sin necesidad.</p>
+
+    <h2>8. Eliminación de datos</h2>
+    <p>El usuario puede evaluar y eliminar los datos gestionados por TattooAgenda a través de las funciones disponibles dentro de la aplicación o mediante las opciones del sistema operativo del dispositivo.</p>
+    <p>Al desinstalar la aplicación, los datos almacenados localmente pueden eliminarse conforme al funcionamiento del sistema operativo y la gestión del dispositivo.</p>
+    <p>En el caso de que exista información almacenada en copias de seguridad del sistema o en servicios externos ajenos a la aplicación, la eliminación dependerá de las políticas de ese servicio o del propio dispositivo.</p>
+
+    <h2>9. Menores de edad</h2>
+    <p>TattooAgenda no está dirigida específicamente a menores de edad.</p>
+    <p>Si un menor de edad utiliza la aplicación, se recomienda que lo haga bajo la supervisión de un adulto responsable.</p>
+
+    <h2>10. Cambios en esta política de privacidad</h2>
+    <p>Esta política de privacidad puede actualizarse cuando sea necesario para reflejar cambios en TattooAgenda, sus funcionalidades o los requisitos legales aplicables.</p>
+    <p>La fecha de la última actualización se indicará siempre al principio de esta política.</p>
+
+    <h2>11. Contacto</h2>
+    <p>Para cualquier consulta relacionada con esta política de privacidad o con el tratamiento de datos en TattooAgenda, el usuario puede ponerse en contacto con el responsable de la aplicación utilizando los datos de contacto proporcionados en la ficha de Google Play.</p>
+</div>
+
+</body>
+</html>
